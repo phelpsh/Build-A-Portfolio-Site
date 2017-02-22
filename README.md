@@ -6,7 +6,7 @@
 
 The page can be viewed on a [Github hosted page] (https://phelpsh.github.io/Build-A-Portfolio-Site/)
 
-The page uses Twitter's Bootstrap framework and Flexbox for responsive design.
+This simple page uses Twitter's Bootstrap framework and Flexbox for responsive design.
 
 ## Creator
 
