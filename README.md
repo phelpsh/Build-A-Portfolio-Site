@@ -6,6 +6,8 @@
 
 The page can be viewed on a [Github hosted page] (https:https://phelpsh.github.io/Build-A-Portfolio-Site/)
 
+The page uses Twitter's Bootstrap framework and Flexbox for responsive design.
+
 ## Creator
 
 Created by Heather Phelps <br>
