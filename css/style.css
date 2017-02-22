@@ -2,17 +2,11 @@
 
 /** {
    border: 1px solid red !important;
-}*/
-
-.container {
-	font-size: 16px;
-    line-height: 1.2em;
-    display: flex;
-    flex-wrap: wrap;
 }
+*/
 
 * {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
 /* Titles */
